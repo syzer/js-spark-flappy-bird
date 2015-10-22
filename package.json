@@ -1,5 +1,5 @@
 {
-    "name": "js-spark",
+    "name": "js-spark-flappy-bird",
     "description": "Distributed calculation / data processing system. Run computation/jobs on 1000+ cores",
     "author": "syzer <syzer3@gmail.com>",
     "version": "0.5.1",
@@ -103,7 +103,11 @@
         "job",
         "que",
         "distributed",
-        "lodash"
+        "lodash",
+        "game",
+        "flappy",
+        "bird",
+        "flapy-bird"
     ],
     "scripts": {
         "start": "node index & node client & node client",
