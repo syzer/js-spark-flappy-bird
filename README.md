@@ -239,6 +239,7 @@ Running with UI
 
         git clone git@github.com:syzer/JS-Spark.git && cd $_
         npm install
+        bower install
         grunt build
         grunt serve
 
