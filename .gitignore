@@ -10,3 +10,4 @@ private/data/log/error.log
 dist/
 trash/testOfFunctionSerialization.js
 trash/
+private/data/db
