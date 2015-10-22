@@ -1,17 +1,9 @@
-What is JS-Spark
-====
-[https://github.com/syzer/JS-Spark]()
-
-![main page](https://raw.github.com/syzer/JS-Spark/master/public/docs/JS-Spark-main-page.png)
-![computing que](https://raw.github.com/syzer/JS-Spark/master/public/docs/JS-Spark-computing-que-view.png)
-
-
 
 WAT
 ===
 
 Flappy-bird game example
-
+With distributed calculation client, to help calculate ML models.
 
 HOW
 ===
@@ -26,6 +18,14 @@ mongo jssparkui-dev private/src/bin/makeDb.js
 grunt build --force
 grunt serve
 ```
+
+What is JS-Spark
+====
+[https://github.com/syzer/JS-Spark]()
+
+![main page](https://raw.github.com/syzer/JS-Spark/master/public/docs/JS-Spark-main-page.png)
+![computing que](https://raw.github.com/syzer/JS-Spark/master/public/docs/JS-Spark-computing-que-view.png)
+
 
 TODO
 ====
