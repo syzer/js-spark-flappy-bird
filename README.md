@@ -2,6 +2,8 @@
 WAT
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syzer/js-spark-flappy-bird.svg)](https://greenkeeper.io/)
+
 Flappy-bird game example
 With distributed calculation client, to help calculate ML models.
 
